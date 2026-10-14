@@ -1,0 +1,10 @@
+[1mflight_reservation_system.py[m[36m:[m4[36m:[m1[36m:[m [1m[31mF401[m 'math' imported but unused
+[1mflight_reservation_system.py[m[36m:[m7[36m:[m80[36m:[m [1m[31mE501[m line too long (84 > 79 characters)
+[1mflight_reservation_system.py[m[36m:[m8[36m:[m80[36m:[m [1m[31mE501[m line too long (85 > 79 characters)
+[1mflight_reservation_system.py[m[36m:[m9[36m:[m80[36m:[m [1m[31mE501[m line too long (83 > 79 characters)
+[1mflight_reservation_system.py[m[36m:[m23[36m:[m80[36m:[m [1m[31mE501[m line too long (132 > 79 characters)
+[1mflight_reservation_system.py[m[36m:[m31[36m:[m5[36m:[m [1m[31mE722[m do not use bare 'except'
+[1mflight_reservation_system.py[m[36m:[m36[36m:[m5[36m:[m [1m[31mF841[m local variable 'airport_fee' is assigned to but never used
+[1mflight_reservation_system.py[m[36m:[m37[36m:[m31[36m:[m [1m[31mE711[m comparison to None should be 'if cond is None:'
+[1mflight_reservation_system.py[m[36m:[m46[36m:[m5[36m:[m [1m[31mF841[m local variable 'base_fare' is assigned to but never used
+[1mflight_reservation_system.py[m[36m:[m87[36m:[m7[36m:[m [1m[31mW292[m no newline at end of file
